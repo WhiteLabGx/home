@@ -1,3 +1,5 @@
+![](/Logo_horizontal.png)
+
 # Welcome to Whitelab Genomics wiki.
 
 These pages are intended as a useful list of resources on different topics. 
